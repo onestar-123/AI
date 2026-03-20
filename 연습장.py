@@ -1,0 +1,5 @@
+print(2048&2049)
+print(8|6)
+print(8^6)
+print(bin(12314123))
+print(~12314123)
