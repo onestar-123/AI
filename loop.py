@@ -1,2 +1,3 @@
-for i in range(0,5):
-    print('Welcome to everyone!')
+for i in range(5):
+    print(i)
+
