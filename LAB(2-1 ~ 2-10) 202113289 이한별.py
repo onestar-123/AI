@@ -75,3 +75,4 @@ n = int(input('숫자 n을 입력하세요 :'))
 print('m + n =', m + n)
 print('m - n =', m - n)
 
+#이름 수정 테스트
